@@ -1,11 +1,22 @@
 # Project Name
-One line: what it does and who it helps.
+CampusMind — Your campus. Your studies. One AI.
 
 ## The problem
 Who faces it, and how they deal with it today.
 
 ## The solution
 What your app does, in 3–4 sentences.
+
+## AI Model
+
+- Model: Gemma 4 12B
+- Model type: Open-weight, multimodal language model
+- Runtime: Ollama
+- Inference: Local HTTP API
+- Model page: https://ollama.com/library/gemma4:12b
+- License: Apache 2.0 (Gemma 4)
+- Use cases: Lecture summarization, quiz generation,
+  and topic explanations in Bangla and English.
 
 ## How it works
 - Model(s) used: name + link
