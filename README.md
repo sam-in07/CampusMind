@@ -36,3 +36,21 @@ Be honest. Known bugs, missing features.
 
 ## Credits
 Libraries, tutorials, code snippets and anything else you used.
+
+
+
+venv\Scripts\activate
+
+uvicorn main:app --reload 
+
+If your main.py is inside an app folder instead, the command may be:
+
+
+cmd
+uvicorn app.main:app --reload
+
+
+python -m uvicorn app.main:app --reload
+
+
+
